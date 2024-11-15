@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+#button-holder {
+  padding-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  margin: auto;
+  justify-content: center;
+}
+button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
